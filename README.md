@@ -1,5 +1,7 @@
 # Trash-Throwing-Action-Detection
 
+https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection/resultdemo.mp4
+
 ## Overview
 This project is designed to detect trash-throwing actions using computer vision techniques. It utilizes YOLOv8 for pose estimation to identify specific human actions related to throwing trash.
 
@@ -10,26 +12,24 @@ This project is designed to detect trash-throwing actions using computer vision 
 
 ## Installation
 1. Clone the repository:
-    bash
-    git clone https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection.git
-    
-2. Navigate to the project directory:
-    bash
-    cd Trash-Throwing-Action-Detection
-    
-3. Install the required dependencies:
-    bash
-    pip install -r requirements.txt
-    
 
+       git clone https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection.git
+    
+3. Navigate to the project directory:
+
+       cd Trash-Throwing-Action-Detection
+    
+4. Install the required dependencies:
+
+       pip install opencv-python numpy torch ultralytics
+    
 ## Usage
 1. *Jupyter Notebook*:
     - Open main.ipynb to run the detection process step by step.
-
+---Or---
 2. *Python Script*:
     - Run the detection script:
-    bash
-    python python_implementation.py
+          python python_implementation.py
     
 
 ## Project Structure
