@@ -1,3 +1,7 @@
+
+
+https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection/assets/86822762/ac6b9fe3-7055-4865-95a6-0af1f8aed410
+
 # Trash-Throwing-Action-Detection
 
 https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection/resultdemo.mp4
